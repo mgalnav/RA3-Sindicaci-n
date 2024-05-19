@@ -1,1 +1,3 @@
-# RA3-Sindicaci-n
+# RA3-Sindicación
+
+## Breve introducción al RA3
